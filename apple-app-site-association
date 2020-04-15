@@ -1,9 +1,11 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "7JYZ6P7577.com.jicher.juhaokan",
-            "paths": ["*"]
-        }]
+        "details": [
+            {
+                "appID": "7JYZ6P7577.com.jicher.juhaokan",
+                "paths": [ "*"]
+            }
+        ]
     }
 }
