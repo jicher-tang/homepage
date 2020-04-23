@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "7JYZ6P7577.com.jicher.juhaokan",
-                "paths": [ "*","/qq_conn/1110427196"]
+                "paths": [ "*","/qq_conn/1110427196/*"]
             }
         ]
     }
